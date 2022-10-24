@@ -25,7 +25,7 @@
 
 - :telescope: I have experience working as a software developer and QA automation.
 
-- :seedling: Currently learning about Unity and npc AI
+- :seedling: Currently learning about Unity and NPC AI.
 
 - :zap: In my free time, I mostly play video games, watch docomenteries and sometimes read tech articles.
 
