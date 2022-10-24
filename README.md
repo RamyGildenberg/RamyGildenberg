@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I mostly play video games, watch documentaries and sometimes read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-gildenberg-a98406114) or [![Gmail Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)](mailto:ramy.gildenberg@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-gildenberg-a98406114) or [![Gmail Badge](<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40">)](mailto:ramy.gildenberg@gmail.com)
 
 ---
 
