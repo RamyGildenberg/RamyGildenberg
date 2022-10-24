@@ -27,7 +27,7 @@
 
 - :seedling: Currently learning about Unity and NPC AI.
 
-- :zap: In my free time, I mostly play video games, watch docomenteries and sometimes read tech articles.
+- :zap: In my free time, I mostly play video games, watch documentaries and sometimes read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-gildenberg-a98406114)
 
