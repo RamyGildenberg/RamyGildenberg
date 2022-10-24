@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ramy-gildenberg-a98406114/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻: About Me :I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### 👨‍💻: About Me :I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
