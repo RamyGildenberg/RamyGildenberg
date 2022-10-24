@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻 About Me: I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### 👨‍💻 About Me: I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 - :telescope: I have experience working as a software developer and QA automation.
 
@@ -29,11 +29,19 @@
 
 - :zap: In my free time, I mostly play video games, watch documentaries and sometimes read tech articles.
 
-- :mailbox: 
-- <div align="center">
-- How to reach me: 
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-gildenberg-a98406114) or <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" align="center">
-  </div>
+---
+
+<div align="center">
+   :mailbox:How to reach me: 
+  <a href=https://www.linkedin.com/in/ramy-gildenberg-a98406114/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30 height="30 align="center">
+  </a>  
+    or 
+  <a href=mailto:ramy.gildenberg@gmail.com>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30 height="30 align="center">
+  </a>   
+ </div>
+
 
 
 
