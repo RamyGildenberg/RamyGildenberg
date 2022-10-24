@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻: About Me :I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### 👨‍💻 About Me :I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I have experience working as a software developer and QA automation.
 
