@@ -21,7 +21,7 @@
 
 - :zap: In my free time, I mostly play video games, watch documentaries and sometimes read tech articles.
 
-------
+
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-------
+
 <div align="center">
   
 ### :hammer_and_wrench: Languages and Tools :<div>
