@@ -24,6 +24,7 @@
 ------
 
 
+
 <div style="text-align: center;">
     <p>How to reach me:</p>
     <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank">
@@ -33,6 +34,8 @@
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" height="30">
     </a> 
 </div>
+
+
 
 
 
