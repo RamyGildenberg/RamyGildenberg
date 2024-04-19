@@ -27,7 +27,7 @@
 
 <div style="text-align: center;">
     <p>How to reach me:</p>
-    <div style="display: inline-block;">
+    <div style="display: inline-block;" font-size:0>
         <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank" style="text-decoration:unset;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="30" height="30" alt="LinkedIn icon">
         </a> 
