@@ -31,7 +31,7 @@
   </a> 
   
   <a href=mailto:ramy.gildenberg@gmail.com>
-    <img src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" width="30" height="30" align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRJ7eGNwx1SuMiHdaWnjhHV3CIPTmaqCXtIaOaSqssw&s" width="30" height="30" align="center">
   </a>   
  </div>
 
