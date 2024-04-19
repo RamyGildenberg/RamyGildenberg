@@ -23,7 +23,7 @@
 
 
 
-
+------
 
 <div style="text-align: center;" >
     <p align="center">How to reach me:</p>
@@ -37,8 +37,7 @@
     </div>
 </div>
 
-
-
+------
 
 
 <div align="center">
