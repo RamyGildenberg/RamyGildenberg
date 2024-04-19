@@ -28,8 +28,7 @@
    :mailbox: How to reach me : 
   <a href=https://www.linkedin.com/in/ramy-gildenberg-a98406114/>
     <img src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" width="45" height="45" align="center">
-  </a>  
-      
+  </a>     
   <a href=mailto:ramy.gildenberg@gmail.com>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" align="center">
   </a>   
