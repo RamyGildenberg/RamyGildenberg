@@ -26,7 +26,7 @@
 ------
 
 <div style="text-align: center;" >
-    <p align="center">How to reach me:</p>
+    <h4 align="center">How to reach me:</h4>
     <div style="display: inline-block;" align="center">
         <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank" >
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" align="center" width="30" height="30" alt="LinkedIn icon">
