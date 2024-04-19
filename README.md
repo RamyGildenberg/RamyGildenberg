@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" align="center" alt="Java" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" align="center" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" align="center" alt="AndroidStudio" width="40" height="40"/>&nbsp;
-  <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png"  title="Azure Devops" align="center" alt="Azure" width="100" height="40"/>&nbsp;
+  <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png"  title="Azure Devops" align="center" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" align="center" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" title="Neo4j"  align="center" alt="Neo4j" width="" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  align="center" alt="MySQL" width="60" height="60"/>&nbsp;
