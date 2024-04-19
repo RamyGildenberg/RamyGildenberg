@@ -29,7 +29,7 @@
     <h4 align="center">How to reach me:</h4>
     <div align="center">
         <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank">
-            <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" align="center" width="30" height="30" alt="LinkedIn icon">
+            <!--<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" align="center" width="30" height="30" alt="LinkedIn icon"> -->
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:ramy.gildenberg@gmail.com">
