@@ -24,16 +24,15 @@
 ------
 
 
-<div align="center">
-   :mailbox: How to reach me : 
-  <a href=https://www.linkedin.com/in/ramy-gildenberg-a98406114/>
-    <img src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" width="45" height="45" align="center">
-  </a> 
-  
-  <a href=mailto:ramy.gildenberg@gmail.com>
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" height="30" align="center">
-  </a>   
- </div>
+<div style="text-align: center;">
+    <p>How to reach me:</p>
+    <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank">
+        <img src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" width="45" height="45">
+    </a> 
+    <a href="mailto:ramy.gildenberg@gmail.com">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" height="30">
+    </a> 
+</div>
 
 
 
