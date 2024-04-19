@@ -13,7 +13,7 @@
 
 
 
-### 👨‍💻 About Me: I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" hight="50" align="center">
+### 👨‍💻 About Me: I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" hight="50" align="center">
 
 - :telescope: I have experience working as a software developer and QA automation.
 
