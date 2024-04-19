@@ -28,9 +28,9 @@
 <div style="text-align: center;">
     <h4 align="center">How to reach me:</h4>
     <div align="center">
-        <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank">
-            <!--<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" align="center" width="30" height="30" alt="LinkedIn icon"> -->
-        </a>
+        <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" align="center" width="30" height="30" alt="LinkedIn icon">
+        <!--<a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank">      
+        </a>-->
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:ramy.gildenberg@gmail.com">
             <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" align="center" width="37" height="37" alt="Gmail icon">
