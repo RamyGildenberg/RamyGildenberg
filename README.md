@@ -29,10 +29,10 @@
     <p align="center">How to reach me:</p>
     <div style="display: inline-block;" align="center">
         <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="blank" align="center" >
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="30" height="30" alt="LinkedIn icon">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" align="center" width="30" height="30" alt="LinkedIn icon">
         </a> 
         <a href="mailto:ramy.gildenberg@gmail.com" align="center" >
-            <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="37" height="37" alt="Gmail icon">
+            <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" align="center" width="37" height="37" alt="Gmail icon">
         </a>
     </div>
 </div>
