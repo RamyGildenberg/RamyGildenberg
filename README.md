@@ -28,12 +28,12 @@
 <div style="text-align: center;">
     <h4 align="center">How to reach me:</h4>
     <div align="center">
-        <a href=[Link to Linkedion]"https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank">   
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" align="center" width="30" height="30" alt="LinkedIn icon">
+        <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank" text-decoration: none>   
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" text-decoration: none align="center" width="30" height="30" alt="LinkedIn icon">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:ramy.gildenberg@gmail.com">
-            <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" align="center" width="37" height="37" alt="Gmail icon">
+        <a href="mailto:ramy.gildenberg@gmail.com" text-decoration: none>
+            <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" text-decoration: none align="center" width="37" height="37" alt="Gmail icon">
         </a>
     </div>
 </div>
