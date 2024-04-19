@@ -39,7 +39,7 @@
 
 
 ---
-<div align="center" align-content:"center">
+<div align="center" style="text-align:center";>
   
 ### :hammer_and_wrench: Languages and Tools :<div>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="38" height="38"/>&nbsp;-->
