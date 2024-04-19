@@ -25,7 +25,7 @@
 
 
 
-<div style="text-align: center;">
+<div style="text-align: center;" align="center">
     <p>How to reach me:</p>
     <div style="display: inline-block;" font-size:0;>
         <a href="https://www.linkedin.com/in/ramy-gildenberg-a98406114/" target="_blank" style="text-decoration:none;">
